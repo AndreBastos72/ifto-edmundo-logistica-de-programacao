@@ -5,7 +5,7 @@ programa {
     escreva("me informe um numero de 1 a 12: ")
       leia(numero )
 
-    se(numero == 1)[
+    se(numero == 1){
       escreva("janeiro")}
     senao se(numero == 2){
       escreva("ferveiro")}
